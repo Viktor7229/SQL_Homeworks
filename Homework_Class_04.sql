@@ -1,4 +1,4 @@
-use SEDCHome
+use homework
 --                                   REQUIREMENTS 1/2
 --Declare scalar variable for storing FirstName values
 	--Assign value ‘Viktor’ to the FirstName variable
