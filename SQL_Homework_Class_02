@@ -1,4 +1,4 @@
-use homework01
+use homework
 --Find all Students with FirstName = Viktor
 
 select *
