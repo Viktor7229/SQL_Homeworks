@@ -1,5 +1,5 @@
 use homework01
---Find all Students with FirstName = Antonio
+--Find all Students with FirstName = Viktor
 
 select *
 from Student
